@@ -1,0 +1,41 @@
+
+p,h1,h2,h3,h4
+{
+text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+.header
+{
+    display:flex;
+    background-color: olive;
+    text-align: center;
+}
+
+.body
+{
+    background-color: sandybrown;
+  
+}
+
+.origami1
+{
+    display: flex;
+    background-color: seagreen;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.origami2
+{
+    display: flex;
+    background-color: coral;
+    flex-wrap: wrap;
+    justify-content: right;
+}
